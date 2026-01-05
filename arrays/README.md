@@ -6,3 +6,11 @@
 - File: `two_sum.py`
 - Time Complexity: O(n)
 - Space Complexity: O(n)
+
+## LeetCode 217: Contains Duplicate
+- Difficulty: Easy
+- Technique: Hash Set
+- File: contains_duplicate.py
+- Time Complexity: O(n)
+- Space Complexity: O(n)
+- File: contains_duplicate.py
