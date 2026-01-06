@@ -14,3 +14,9 @@
 - Time Complexity: O(n)
 - Space Complexity: O(n)
 
+## LeetCode 268: Missing Number
+- Difficulty: Easy
+- Technique: Math (Sum Formula)
+- Time Complexity: O(n)
+- Space Complexity: O(1)
+- File: missing_number.py
