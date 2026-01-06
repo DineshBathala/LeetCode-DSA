@@ -20,3 +20,10 @@
 - Time Complexity: O(n)
 - Space Complexity: O(1)
 - File: missing_number.py
+
+## LeetCode 448: Find All Numbers Disappeared in an Array
+- Difficulty: Easy
+- Technique: In-place Index Marking
+- Time Complexity: O(n)
+- Space Complexity: O(1)
+- File: find_all_numbers_disappeared.py
