@@ -27,3 +27,10 @@
 - Time Complexity: O(n)
 - Space Complexity: O(1)
 - File: find_all_numbers_disappeared.py
+
+## LeetCode 1365: How Many Numbers Are Smaller Than the Current Number
+- Difficulty: Easy
+- Technique: Sorting + Hash Map
+- Time Complexity: O(n log n)
+- Space Complexity: O(n)
+- File: smaller_than_current_no.py
