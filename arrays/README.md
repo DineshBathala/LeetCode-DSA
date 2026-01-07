@@ -34,3 +34,11 @@
 - Time Complexity: O(n log n)
 - Space Complexity: O(n)
 - File: smaller_than_current_no.py
+
+
+## LeetCode 121: Best Time to Buy and Sell Stock
+- Difficulty: Easy
+- Technique: Greedy (One Pass)
+- Time Complexity: O(n)
+- Space Complexity: O(1)
+- File: best_time_to_buy_and_sell_stock.py
