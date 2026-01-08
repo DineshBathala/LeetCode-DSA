@@ -42,3 +42,12 @@
 - Time Complexity: O(n)
 - Space Complexity: O(1)
 - File: best_time_to_buy_and_sell_stock.py
+
+
+## LeetCode 238: Product of Array Except Self
+- Difficulty: Medium
+- Technique: Prefix & Suffix
+- Time: O(n)
+- Space: O(1)
+- File: product_except_self.py
+
