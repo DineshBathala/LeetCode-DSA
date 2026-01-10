@@ -4,3 +4,10 @@
 - File: valid_anagram.py
 - Time Complexity: O(n)
 - Space Complexity: O(1)
+
+## LeetCode 49: Group Anagrams
+- Difficulty: Medium
+- Technique: Hash Map + Sorting
+- File: group_anagrams.py
+- Time Complexity: O(n * k log k)
+- Space Complexity: O(n)
