@@ -56,3 +56,10 @@
 - Space Complexity: O(n)
 - File: top_k_frequent_elements.py
 
+## LeetCode 169: Majority Element
+- Difficulty: Easy
+- Technique: Boyer–Moore Voting Algorithm
+- Time Complexity: O(n)
+- Space Complexity: O(1)
+- File: majority_element.py
+
