@@ -63,3 +63,10 @@
 - Space Complexity: O(1)
 - File: majority_element.py
 
+## LeetCode 283: Move Zeros
+- Difficulty: Easy
+- Technique: Two Pointers
+- Time Complexity: O(n)
+- Space Complexity: O(1)
+- File: move_zeros.py
+
